@@ -15,5 +15,5 @@ demo
 demo-build
 webpack.config.js
 
-#typescript sourcesc
+#typescript sources
 *.js.map
